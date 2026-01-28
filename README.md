@@ -20,6 +20,7 @@ This repository contains a collection of high-quality, responsive website templa
 
 ## 📬 Contact for Deployment
 If you are a business owner looking to take your brand online, feel free to reach out for a custom deployment of these templates.
-**CONTACT** | 08085339654
+**CONTACT** | 08085339654 or 07071993363
+**EMAIL** | melnewman419@gmail.com
 
 **Developed by [Mel chizek3k]**
